@@ -1,9 +1,9 @@
 ## 👋 Hey there
 
-- I'm @Ezio-commits :sparkles:
-- 16 y.o, boy :cat:
-- Uttarakhand, India :round_pushpin:
-- student :mortar_board:
+- I'm Asta :sparkles:
+- 19 y.o :shark:
+- Lucknow, India :round_pushpin:
+- High Schooler :mortar_board:
 <img src="https://te.legra.ph/file/1a7000442c7aae38d7f4d.jpg" width="600">
 
 ## :closed_book: Languages I know or learning:
