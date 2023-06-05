@@ -2,9 +2,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 📫  Telegram **@PoweredByYuv**  :shark:
+- 📫  Telegram: **@PoweredByYuv** /:shark:
 
-- ⚡ Fun fact **I am a Sanatani and go to the GYM**
+- ⚡ Fun fact: **I am a Sanatani and go to the GYM**
 
 # 📊 My GitHub Stats:
 
