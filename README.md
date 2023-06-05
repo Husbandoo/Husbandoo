@@ -2,17 +2,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 📫 Instagram **iflexuv** :shark:
+- 📫 Telegram **@PoweredByYuv** :shark:
 
-- ⚡ Fun fact **I am a Weeb and go to the GYM very often.**
+- ⚡ Fun fact **I am a Sanatani and go to the GYM**
 
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=zomroo&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Husbando&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zomroo&theme=swift&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Husbandoo&theme=swift&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zomroo&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Husbandoo&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
