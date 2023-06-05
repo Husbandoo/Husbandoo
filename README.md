@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 📫 Instagram **iflexuv**:shark
+- 📫 Instagram **iflexuv** :shark:
 
 - ⚡ Fun fact **I am a Weeb and go to the GYM very often.**
 
