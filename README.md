@@ -4,7 +4,7 @@
 
 - 📫  Telegram: **@PoweredByYuv** :shark:
 
-- ⚡ Fun fact: **I am a Sanatani and go to the GYM**
+- 🛕 **Following Sanatani Path & Go to the GYM**
 
 # 📊 My GitHub Stats:
 
