@@ -6,19 +6,27 @@
 
 - ⚡ Fun fact **I am a Weeb and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+# 📊 GitHub Stats:
 
-<p align="left"> 
+![](https://github-readme-stats.vercel.app/api?username=zomroo&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=zomroo&theme=swift&hide_border=true)<br/>
 
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zomroo&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Learning :
+## 🏆 GitHub Trophies
 
-<p align = "left">
+![](https://github-profile-trophy.vercel.app/?username=zomroo&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
-    <a href = "https://www.java.com" target = "_blank"> <img src = "https://img.icons8.com/color/256/java-coffee-cup-logo.png"/> </a>
+### ✍️ Random Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=zomroo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Connect with me:
 
