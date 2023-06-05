@@ -31,5 +31,4 @@
     
 
 <a href ="[https://open.spotify.com/user/31fluksoiwabj5x5h6inkeoljlhq](https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=QeD49jGtQES0mIiTZpTiVA)"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/> </a>
-
 <a href ="https://www.instagram.com/iflexuv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
