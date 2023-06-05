@@ -8,11 +8,17 @@
 
 # 📊 My GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Husbando&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![Husbando's Git Stats](https://github-readme-stats.vercel.app/api?username=PrimexRick&include_all_commits=true&count_private=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Husbandoo&theme=swift&hide_border=true)<br/>
+![Husbando's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=PrimexRick&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Husbandoo&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# My Activity Graph
+
+![Husbando's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=PrimexRick&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
+# Cute visitor count
+
+<a href="https://t.me/Primesdivision"><img alt="Cute Count" src="https://count.getloli.com/get/@PrimexRick?theme=rule34" /></a>
 
 ## 🏆 GitHub Trophies
 
