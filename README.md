@@ -37,8 +37,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iflexuv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
 
-  
-
 [<img src="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/Husbandoo)
 
 <h1> <href="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/anon.webp" width="55px">  Spotify</h1>
