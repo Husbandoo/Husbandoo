@@ -36,10 +36,6 @@
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Husbandoo)
 [![Instagram](https://img.shields.io/badge/Instagram-Moodynight?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iflexuv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
-
-    
-  
-</p>
     
 # 🎧 Spotify Playing:
 
