@@ -10,6 +10,7 @@
 
 ![Husbando's Git Stats](https://github-readme-stats.vercel.app/api?username=Husbandoo&include_all_commits=true&count_private=true&theme=tokyonight)
 ![Husbando's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Husbandoo&theme=tokyonight)
+
 ![Husbando's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husbandoo&theme=tokyonight&layout=compact&langs_count=6)
 
 # Cute visitor count
