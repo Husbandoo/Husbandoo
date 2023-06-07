@@ -22,15 +22,9 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Husbandoo&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # Connect With Me:
 
 <p align="left">
-
-    
 
 <a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=cuzm1sM4TkishAZ-afSxLw?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Husbandoo)
@@ -44,3 +38,4 @@
   <a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=FZrcHEl7QAKwVYQZ3avjuA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="550"/></a>
 
 </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
