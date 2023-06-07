@@ -37,13 +37,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Moodynight?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iflexuv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
 
-[<img src="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/Husbandoo)
+### Spotify Playing 🎧
 
-<h1> <href="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/anon.webp" width="55px">  Spotify</h1>
+<p align="center">
 
-    
-
-<a href="[https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=Osn8SJ9jTU-7L5I8v2Evsw](https://open.spotify.com/track/34udZ2dsuJZaXmpmnIR2jy?si=D3Lp7jKnS6SXrVMNbo77yg)?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/></a>
+  <a href="https://open.spotify.com/user/31exqvqqzu7qvai464depjlzixci" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 
 </p>
 
