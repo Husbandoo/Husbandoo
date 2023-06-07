@@ -1,7 +1,7 @@
 # Hi I'm Yuv Sinha <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
 <img src="https://te.legra.ph/file/08f6b5ab1a08059eac351.jpg" width="800">
 
-# 🙋‍♂️ About Me
+# 🙋‍♂️ About Me:
 
 - 📫  Telegram: **@PoweredByYuv** :shark:
 
@@ -14,11 +14,11 @@
 
 ![Husbando's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husbandoo&theme=tokyonight&layout=compact&langs_count=6)
 
-# Cute visitor count
+# Cute Visitor Counts:
 
 <a href="https://t.me/Husbandoo"><img alt="Cute Count" src="https://count.getloli.com/get/@Husbandoo?theme=rule34" /></a>
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=Husbandoo&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
@@ -26,7 +26,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Connect with me:
+# Connect With Me:
 
 <p align="left">
 
@@ -38,7 +38,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
 
     
-# Spotify Playing 🎧
+# 🎧 Spotify Playing:
 
 <p align="center">
 
