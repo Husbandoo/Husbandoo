@@ -14,7 +14,7 @@
 
 # Cute visitor count
 
-<a href="https://t.me/Husbandoo"><img alt="Cute Count" src="https://count.getloli.com/get/@PrimexRick?theme=rule34" /></a>
+<a href="https://t.me/Husbandoo"><img alt="Cute Count" src="https://count.getloli.com/get/@Husbandoo?theme=rule34" /></a>
 
 # 🏆 GitHub Trophies
 
