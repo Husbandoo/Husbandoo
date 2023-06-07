@@ -41,7 +41,7 @@
 
 <p align="center">
 
-  <a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=FZrcHEl7QAKwVYQZ3avjuA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/></a>
+  <a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=FZrcHEl7QAKwVYQZ3avjuA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="800"/></a>
 
 </p>
 
