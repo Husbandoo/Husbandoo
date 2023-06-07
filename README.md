@@ -32,6 +32,23 @@
 
     
 
-<a href ="[https://open.spotify.com/user/31fluksoiwabj5x5h6inkeoljlhq](https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=QeD49jGtQES0mIiTZpTiVA)"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/> </a>
-<a href ="https://www.instagram.com/iflexuv/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=cuzm1sM4TkishAZ-afSxLw?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Husbandoo)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iflexuv)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
+
+  
+
+[<img src="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/Husbandoo)
+
+<h1> <href="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/anon.webp" width="55px">  sᴘᴏᴛɪғʏ</h1>
+
+    
+
+<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
+</p>
 
