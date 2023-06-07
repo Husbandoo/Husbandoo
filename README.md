@@ -43,7 +43,7 @@
 
     
 
-<a href="https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/></a>
+<a href="[https://open.spotify.com/user/dfrjnf1uxpkfzb2yes1mj9sqx](https://open.spotify.com/track/34udZ2dsuJZaXmpmnIR2jy?si=sG1oYvICQx2Gey7abxoW7Q)?si=pVC68Dc_Sn2xtUU52YNMuw&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/></a>
 
 </p>
 
