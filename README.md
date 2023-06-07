@@ -35,7 +35,7 @@
 <a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=cuzm1sM4TkishAZ-afSxLw?si=F7PO8_ALQrK5tTFp5Adskg&utm_source=copy-link"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Husbandoo)
 [![Instagram](https://img.shields.io/badge/Instagram-Maroon?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iflexuv)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
+[![Telegram](https://img.shields.io/badge/Telegram-f09433?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
 
 [<img src="https://github.com/Husbandoo/Husbandoo-Git-Readme/blob/master/resources/hr.gif"/>](https://github.com/Husbandoo)
 
