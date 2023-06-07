@@ -38,6 +38,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PoweredByYuv)
 
     
+    
+    
 # 🎧 Spotify Playing:
 
 <p align="center">
@@ -45,4 +47,4 @@
   <a href="https://open.spotify.com/user/31u5njz4tr635omh4uguzsnv3c5m?si=FZrcHEl7QAKwVYQZ3avjuA" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="550"/></a>
 
 </p>
-
+---
